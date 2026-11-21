@@ -2,7 +2,15 @@
 
 # Hi there, I'm Fardin! 👋
 
-### 💻 Full-Stack Web Developer | 📱 Flutter Developer | 🎓 Computer Science Student
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres" height="32" alt="Full-stack technologies" />
+  <strong> Full-Stack Web Developer </strong>
+  &nbsp; | &nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter,dart" height="32" alt="Flutter and Dart" />
+  <strong> Flutter Developer </strong>
+</p>
+
+🎓 **Computer Science Student**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;Flutter+%26+Dart+Developer;Turning+Ideas+Into+Reality!" alt="Typing introduction" />
 
@@ -50,6 +58,8 @@ A healthcare appointment booking platform designed to help people in Afghanistan
 
 **NobatYar — A Smart Choice for Your Health! 💚**
 
+🌐 [Live Website](https://nobat-yar.vercel.app/)
+
 #### ⚽ Top 10 Soccer Players — Flutter App
 
 A Flutter application project focused on top soccer players, built to practice mobile application development with Dart and Flutter.
@@ -63,6 +73,8 @@ A Flutter application project focused on top soccer players, built to practice m
 My personal portfolio showcasing my projects, skills, and experience in web development.
 
 **Tech:** React, JavaScript, Firebase, Neon
+
+🌐 [Live Portfolio](https://fardinmehry.vercel.app/) · 💻 [GitHub Repository](https://github.com/fardinme6/Fardin-Portfolio)
 
 ---
 
@@ -85,6 +97,8 @@ My personal portfolio showcasing my projects, skills, and experience in web deve
 
 <div align="center">
 
+<a href="https://fardinmehry.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://nobat-yar.vercel.app/"><img src="https://img.shields.io/badge/NobatYar-008FBC?style=for-the-badge&logo=react&logoColor=white" alt="NobatYar" /></a>
 <a href="https://github.com/fardinme6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=fardinme6&label=Profile+Views&color=00C896&style=flat-square" alt="Profile views" />
