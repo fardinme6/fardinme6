@@ -8,6 +8,7 @@
   &nbsp; | &nbsp;
   🧑‍💻
   <strong> Flutter Developer </strong>
+  &nbsp; | &nbsp;
   🎓 <strong> Computer Science Student </strong>
 </p>
 
