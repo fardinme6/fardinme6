@@ -8,9 +8,8 @@
   &nbsp; | &nbsp;
   🧑‍💻
   <strong> Flutter Developer </strong>
+  🎓 <strong> Computer Science Student </strong>
 </p>
-
-🎓 **Computer Science Student**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;Flutter+%26+Dart+Developer;Turning+Ideas+Into+Reality!" alt="Typing introduction" />
 
