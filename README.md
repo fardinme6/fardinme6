@@ -3,10 +3,10 @@
 # Hi there, I'm Fardin! 👋
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres" height="32" alt="Full-stack technologies" />
+  💻
   <strong> Full-Stack Web Developer </strong>
   &nbsp; | &nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter,dart" height="32" alt="Flutter and Dart" />
+  🧑‍💻
   <strong> Flutter Developer </strong>
 </p>
 
